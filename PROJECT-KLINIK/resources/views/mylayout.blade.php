@@ -7,7 +7,7 @@
         <meta name="description" content="" />
         <meta
             name="author"
-            content="abdul rahim"
+            content="el kecepatan"
         />
         <title> {{ $title ?? '' }} {{ env('APP_NAME') }}</title>
 
